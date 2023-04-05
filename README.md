@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meet our accomplished computer science engineering student from Morocco, currently studying at ENSA Tetouan. With a keen interest in data engineering, this student is eager to learn and grow in this exciting and ever-evolving field. With a strong academic background and a passion for technology, our student is poised to make a mark in the world of computer science and data engineering.
+I am a computer science engineering student studying at ENSA Tetouan. My passion lies in learning about data engineering, and I am excited to explore the vast world of data. Equipped with technical skills and a curious mind, I am determined to become an accomplished data engineer and take on any challenges that come my way
 
 
 ## 🌐 Socials:
