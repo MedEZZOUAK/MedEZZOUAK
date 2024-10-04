@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a fourth-year computer engineering student at École Nationale des Sciences Appliquées (ENSA), specializing in software engineering with a deep passion for data engineering. With a strong foundation in Python, SQL, and various cloud platforms, I enjoy developing cutting-edge solutions that drive efficiency and innovation.<br><br>My journey in the tech world has led me to work on diverse projects ranging from ETL pipelines for New York City taxis to predictive models for cardiovascular diseases. I thrive on challenges and am constantly exploring new technologies to enhance my skill set.<br><br>🎓 Currently Finishing My Degree: Focused on completing my studies while honing my expertise in data engineering and software development.<br>🌱 Learning Focus: Enhancing my expertise in data engineering tools such as Apache Spark, DBT, and Apache Airflow.<br>👯 Looking to Collaborate On: Innovative data-driven projects and open-source contributions.<br>⚡ Fun Fact: When I'm not coding, you can find me exploring new hiking trails or experimenting with gourmet cooking.
+Final-year Software Engineering student with hands-on experience in developing scalable web and backend
+applications. Proficient in Python, Java, and SQL, with expertise in cloud platforms like Google Cloud and
+containerization using Docker. Demonstrated ability to build end-to-end solutions, optimize performance, and
+collaborate on team projects. Seeking to leverage my skills in Software Engineering through an internship that
+focuses on full-stack development, backend services, or cloud-based solutions..<br>🌱 Learning Focus: Enhancing my expertise in data engineering tools such as Apache Spark, DBT, and Apache Airflow.<br>👯 Looking to Collaborate On: Innovative data-driven projects and open-source contributions.<br>⚡ Fun Fact: When I'm not coding, you can find me exploring new hiking trails or experimenting with gourmet cooking.
 
 
 ## 🌐 Socials:
