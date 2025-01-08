@@ -1,9 +1,5 @@
 # 💫 About Me:
-Final-year Software Engineering student with hands-on experience in developing scalable web and backend
-applications. Proficient in Python, Java, and SQL, with expertise in cloud platforms like Google Cloud and
-containerization using Docker. Demonstrated ability to build end-to-end solutions, optimize performance, and
-collaborate on team projects. Seeking to leverage my skills in Software Engineering through an internship that
-focuses on full-stack development, backend services, or cloud-based solutions..<br>🌱 Learning Focus: Enhancing my expertise in data engineering tools such as Apache Spark, DBT, and Apache Airflow.<br>👯 Looking to Collaborate On: Innovative data-driven projects and open-source contributions.<br>⚡ Fun Fact: When I'm not coding, you can find me exploring new hiking trails or experimenting with gourmet cooking.
+Hi there! I'm Mohammed EZZOUAK, a full-stack developer with a focus on data engineering and cloud solutions. With experience in Spring Boot, React, Docker, and more, I'm passionate about building scalable and efficient applications. Currently seeking opportunities for PFE (Projet de Fin d'Etudes) and internships. Let's connect and explore possibilities together!
 
 
 ## 🌐 Socials:
